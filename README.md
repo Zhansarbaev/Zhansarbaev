@@ -24,7 +24,6 @@ I am a **Backend Developer** from **Karaganda, Kazakhstan**
 
 </div>
 
----
 
 ### 🛠️ Tech Stack:
 <p align="center">
@@ -38,4 +37,4 @@ I am a **Backend Developer** from **Karaganda, Kazakhstan**
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
----
+
