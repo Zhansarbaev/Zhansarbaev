@@ -1,16 +1,48 @@
-## Hi there 👋
+<div id="badges" align="center">
+  <a href="https://www.kaggle.com/zhansarbayabylay/code">
+    <img src="https://img.shields.io/badge/Kaggle-blue?logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://www.instagram.com/zhansarbaevv/">
+    <img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://t.me/Zx7bitrate">
+    <img src="https://img.shields.io/badge/Telegram-darkblue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
-<!--
-**Zhansarbaev/Zhansarbaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me:
+I am a **Backend Developer** from **Karaganda, Kazakhstan**,  
+🎓 Student at [Saginov.tech]([https://saginov.tech/](https://www.kstu.kz/?lang=ru))
+
+---
+
+### 🛠️ Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZhansarbaevAbylay&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</div>
+
+---
+
+### 📫 Contact Me:
+📧 Email: zhansarbaevvv@gmail.com  
+
+
+---
