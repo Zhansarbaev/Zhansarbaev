@@ -16,10 +16,14 @@
 
 ---
 
+<div align="center">
+
 ### 👨‍💻 About Me:
 I am a **Backend Developer** from **Karaganda, Kazakhstan**  
 
-🎓 Student at [Saginov.tech]([https://saginov.tech/](https://www.kstu.kz/?lang=ru))
+🎓 Student at [Saginov.tech](https://www.kstu.kz/?lang=ru)
+
+</div>
 
 ---
 
@@ -32,12 +36,6 @@ I am a **Backend Developer** from **Karaganda, Kazakhstan**
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
-
-
----
-
-### 📫 Contact Me:
-📧 Email: zhansarbaevvv@gmail.com  
 
 
 ---
