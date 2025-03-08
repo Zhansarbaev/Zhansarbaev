@@ -17,7 +17,8 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a **Backend Developer** from **Karaganda, Kazakhstan**,  
+I am a **Backend Developer** from **Karaganda, Kazakhstan**  
+
 🎓 Student at [Saginov.tech]([https://saginov.tech/](https://www.kstu.kz/?lang=ru))
 
 ---
