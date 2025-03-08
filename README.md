@@ -23,7 +23,7 @@ I am a **Backend Developer** from **Karaganda, Kazakhstan**,
 ---
 
 ### 🛠️ Tech Stack:
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
@@ -32,12 +32,6 @@ I am a **Backend Developer** from **Karaganda, Kazakhstan**,
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
----
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhansarbaevAbylay&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</div>
 
 ---
 
